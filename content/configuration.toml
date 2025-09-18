@@ -34,7 +34,7 @@ title = "Samokhvalov Zakhar"
 subtitle = "Student game designer &<br />computer science enthusiast"
 ctaText = "View Projects"
 image = "https://zhr0451.github.io/portfolio/literally_me.jpg"
-ctaUrl = "/projects"
+ctaUrl = "/portfolio/projects"
 
 [_.personal]
 name = "Zhr"
@@ -51,4 +51,4 @@ noProjects = "No projects found."
 [_.menu]
 home = "/"
 projects = "/projects"
-blog = "/blog"
+blog = "/portfolio/blog"
