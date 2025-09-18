@@ -2,7 +2,7 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "https://zhr-portfolio.netlify.app"
+baseUrl = "https://zhr0451.github.io"
 
 [_.globalMeta]
 title = "Zhr's portfolio"
