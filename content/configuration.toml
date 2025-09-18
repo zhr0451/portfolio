@@ -25,9 +25,9 @@ longDescription = "My projects include ttrpg, computer game, and tabletop works.
 keywords = ["game development", "ttrpg", "games"]
 
 [_.notFoundMeta]
-title = "idk 404"
+title = "Error 404"
 description = "The page you are looking for does not exist."
-longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
+longDescription = "The page you are looking for does not exist."
 
 [_.hero]
 title = "Samokhvalov Zakhar"
