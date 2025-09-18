@@ -2,25 +2,25 @@
 # we need to prefix all configuration keys with an underscore.
 
 [_.site]
-baseUrl = "https://zhr0451.github.io"
+baseUrl = "https://zhr0451.github.io/portfolio/"
 
 [_.globalMeta]
 title = "Zhr's portfolio"
 description = "Student game designer and computer science enthusiast"
-cardImage = "https://zhr-portfolio.netlify.app/literally_me.jpg"
+cardImage = "https://zhr0451.github.io/portfolio/literally_me.jpg"
 keywords = ["game development", "gamedev", "gamedesign", "game design", "game designer", "gd"]
 
 [_.blogMeta]
 title = "Zhr's blog"
 description = "Notes about gamedev"
 longDescription = "Gamedev and game design staff"
-cardImage = "https://zhr-portfolio.netlify.app/literally_me.jpg"
+cardImage = "https://zhr0451.github.io/portfolio/literally_me.jpg"
 keywords = ["game development", "game design", "technology"]
 
 [_.projectMeta]
 title = "Zhr's projects"
 description = "A list of my game development projects."
-cardImage = "https://zhr-portfolio.netlify.app/literally_me.jpg"
+cardImage = "https://zhr0451.github.io/portfolio/literally_me.jpg"
 longDescription = "My projects include ttrpg, computer game, and tabletop works."
 keywords = ["game development", "ttrpg", "games"]
 
@@ -33,13 +33,13 @@ longDescription = "The page you are looking for does not exist."
 title = "Samokhvalov Zakhar"
 subtitle = "Student game designer &<br />computer science enthusiast"
 ctaText = "View Projects"
-image = "https://zhr-portfolio.netlify.app/literally_me.jpg"
+image = "https://zhr0451.github.io/portfolio/literally_me.jpg"
 ctaUrl = "/projects"
 
 [_.personal]
 name = "Zhr"
 githubProfile = "https://github.com/zhr0451"
-cardImage = "https://zhr-portfolio.netlify.app/literally_me.jpg"
+cardImage = "https://zhr0451.github.io/portfolio/literally_me.jpg"
 
 [_.texts]
 articlesName = "Articles"
