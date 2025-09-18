@@ -7,33 +7,28 @@ baseUrl = "http://zaggonaut.dev"
 [_.globalMeta]
 title = "zhr's portfolio"
 description = "Student game designer and computer science enthusiast"
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 keywords = ["game development", "gamedev", "gamedesign", "game design", "game designer", "gd"]
 
 [_.blogMeta]
 title = "Zhr's blog"
 description = "Notes about gamedev"
 longDescription = "Gamedev and game design staff"
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 keywords = ["game development", "game design", "technology"]
 
 [_.projectMeta]
 title = "Zhr's projects"
 description = "A list of my game development projects."
 longDescription = "My projects include ttrpg, computer game, and tabletop works."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 keywords = ["game development", "ttrpg", "games"]
 
 [_.notFoundMeta]
 title = "idk 404"
 description = "The page you are looking for does not exist."
 longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
-cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 
 [_.hero]
 title = "Samokhvalov Zakhar"
 subtitle = "Student game designer &<br />computer science enthusiast"
-image = "https://zaggonaut.dev/literally_me.jpg"
 ctaText = "View Projects"
 ctaUrl = "/projects"
 
