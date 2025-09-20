@@ -167,7 +167,7 @@ const configuration = defineCollection({
       /**
        * The URL of the call-to-action button in the hero section.
        */
-      ctaUrl: z.string().default("/projects"),
+      ctaUrl: z.string().default("/portfolio/projects"),
     }),
 
     /**
@@ -230,9 +230,9 @@ const configuration = defineCollection({
      * This defines the URLs for the main navigation links.
      */
     menu: z.object({
-      home: z.string().default("/"),
-      projects: z.string().default("/projects"),
-      blog: z.string().default("/blog"),
+      home: z.string().default("/portfolio/"),
+      projects: z.string().default("/portfolio/projects"),
+      blog: z.string().default("/portfolio/blog"),
       /** Add other menu items here **/
     }),
   }),
