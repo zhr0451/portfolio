@@ -30,7 +30,7 @@ const { data: config } = await getConfigurationCollection();
     {config.projectMeta.cardImage && (
       <meta property="og:image" content={config.projectMeta.cardImage} />
     )}
-    <meta property="og:url" content={`${config.site.baseUrl}/portfolio/projects`} />
+    <meta property="og:url" content={`${config.site.baseUrl}/projects`} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={config.projectMeta.title} />
     <meta
@@ -42,7 +42,7 @@ const { data: config } = await getConfigurationCollection();
     )}
     <meta http-equiv="content-language" content="en" />
     <meta name="language" content="English" />
-    <link rel="canonical" href={`${config.site.baseUrl}/portfolio/projects`} />
+    <link rel="canonical" href={`${config.site.baseUrl}/projects`} />
   </Fragment>
   <Section class="py-4 my-8">
     <div class="flex items-center gap-4 pt-8 pb-16">
@@ -55,7 +55,7 @@ const { data: config } = await getConfigurationCollection();
             <ProjectSnippet
               title={project.data.title}
               description={project.data.description}
-              url={`${config.site.baseUrl}/portfolio/projects/${project.data.slug}`}
+              url={`${config.site.baseUrl}/projects/${project.data.slug}`}
               githubUrl={project.data.githubUrl}
               liveUrl={project.data.liveDemoUrl}
               tags={project.data.tags ?? []}
